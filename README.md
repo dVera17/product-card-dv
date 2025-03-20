@@ -2,8 +2,6 @@
 
 This is a release package in NPM
 
-### Daniel
-
 ### Example
 
 ```js
